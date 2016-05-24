@@ -15,7 +15,7 @@
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.1",
-    "showTerminal": false,
+    "showTerminal": true,
     "showDevices": false,
     "showCreatureLab": false
   }
