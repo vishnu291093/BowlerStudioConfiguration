@@ -7,11 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/ba9bb37f87d715a73e09feba5ffd2ed6.git:javaCad.groovy": [
+      "https://gist.github.com/ba9bb37f87d715a73e09feba5ffd2ed6.git",
+      "javaCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.1",
     "showTerminal": true,
     "showDevices": false,
-    "showCreatureLab": false
+    "showCreatureLab": true
   }
 }
