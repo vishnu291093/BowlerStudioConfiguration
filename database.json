@@ -16,7 +16,9 @@
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.1",
     "showTerminal": true,
+    "skinBranch": "master",
     "showDevices": false,
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "showCreatureLab": true
   }
 }
